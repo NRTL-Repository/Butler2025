@@ -1,2 +1,3 @@
-# Butler2025
-Pathway Activation Differences in Treating Kinetic versus Postural Tremor with Deep Brain Stimulation
+# Pathway Activation Differences in Treating Kinetic versus Postural Tremor with Deep Brain Stimulation
+
+This project evaluated tremor suppression across three postural and three kinetic tasks in a cohort of individuals with an Essential tremor diagnosis (n=11 participants) and during deep brain stimulation (20 brain hemispheres, 10 monopolar configurations, 2 stimulus thresholds). For each of the twenty implants, we created brain-specific, high-dimensional pathway activation models generated from individual high-field (7T) preoperative MR and post-operative CT imaging. Predicted pathway activations of six parcellated regions of the cerebellothalamic tract, five parcellated regions of the zona incerta, and seven other pathways around the ventral intermediate nucleus of thalamus were incorporated into a mixed-effect model to determine the relationship between pathway activation and quantitative accelerometry of tremor suppression across the six tasks.
